@@ -6,3 +6,10 @@ Designed an interactive Finance Dashboard in Power BI showcasing Income, Expense
 
 ##Dataset Used
 - <a href: "https://github.com/Sharayu2108/Finance-Data-Analysis/blob/main/Finance%2520Dataset.xlsx"> Dataset</a>
+
+##Tools and Technologies 
+  •	Power BI (Dashboard creation, visuals, formatting)
+	•	Power Query (Data cleaning & transformation)
+	•	DAX (Measures for KPIs, growth %, YoY/MoM trends)
+	•	Excel/CSV (Data source)
+
