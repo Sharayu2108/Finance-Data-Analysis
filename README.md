@@ -13,9 +13,17 @@ Designed an interactive Finance Dashboard in Power BI showcasing Income, Expense
 	•	DAX (Measures for KPIs, growth %, YoY/MoM trends)
 	•	Excel/CSV (Data source)
 
+Key Features
+	•	KPI cards for Income, Expenses, Savings & Growth %
+	•	Line chart for Savings Trend by Date
+	•	Donut charts for Savings distribution and Expense breakdown
+	•	Year & month slicers with interactive filtering
+	•	Summary table for year-wise financial performance
+
 ##Usage/Outcome
 	•	Helps users monitor financial health effectively
 	•	Provides insights into spending behavior & saving efficiency
 	•	Supports decision-making through clear, visualized trends
+
 
 
