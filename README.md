@@ -3,4 +3,4 @@ Designed an interactive Finance Dashboard in Power BI showcasing Income, Expense
 
 ##Dataset Used
 
-- <a href: "https://github.com/Sharayu2108/Finance-Data-Analysis/blob/main/Finance%20Dashboard.pbix">Dataset</a>
+- <a href: "https://github.com/Sharayu2108/Finance-Data-Analysis/blob/main/Finance%2520Dataset.xlsx">Dataset</a>
